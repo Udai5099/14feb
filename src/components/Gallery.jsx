@@ -87,7 +87,7 @@ export default function Gallery() {
 
         <div className="gallery-header">
           <h1>I LOVE YOU ❤️</h1>
-          <h2 className="final-text">You’re stuck with me now ❤️</h2>
+          <h2 className="final-text">Happy Valentine’s Day, my love. Having you by my side is the greatest gift of my life. Thank you for choosing me …. today and for all the beautiful Valentines ahead of us. Im  love u  …. My forever❤️</h2>
         </div>
         <div className="photos">
   <div className="photo-item">
@@ -109,3 +109,4 @@ export default function Gallery() {
     </>
   );
 }
+
